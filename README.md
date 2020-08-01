@@ -9,6 +9,9 @@ From Udemy Course: [Modern React with Redux [2020 Update]](https://www.udemy.com
 - Building Lists of Records
 - Section 10: Using Ref's for DOM Access 
   - Grid CSS
+  
+## Source
+- Using [Unsplash](https://api.unsplash.com) in order to souce free high-quality images
 
 # Auto-generated information
 
